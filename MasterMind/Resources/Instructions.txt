@@ -1,0 +1,17 @@
+﻿				^^^ Master Mind Console App ^^^
+
+Player Rules:
+
+ - The randomly generated answer will be four (4) digits in length.
+ - Each digit is between the numbers 1 and 6.
+
+After the player enters a combination, the following signs will appear:
+ -  '+' Your selection is correct and the digit is in the correct position.
+ -  '-' Your selection is correct but the digit is in the wrong position.
+ -  ' ' Nothing shows (empty) for incorrect digits.
+ 
+You have ten (10) attempts to guess the number correctly before receiving a message that you have lost!
+
+Let's start the game!!
+
+Enter your first guess:
